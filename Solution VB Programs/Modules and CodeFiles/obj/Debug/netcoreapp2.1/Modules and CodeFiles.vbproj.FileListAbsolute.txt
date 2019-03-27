@@ -1,0 +1,10 @@
+C:\Git\VisualBasic\Solution VB Programs\Modules and CodeFiles\obj\Debug\netcoreapp2.1\Modules and CodeFiles.vbproj.CoreCompileInputs.cache
+C:\Git\VisualBasic\Solution VB Programs\Modules and CodeFiles\obj\Debug\netcoreapp2.1\Modules and CodeFiles.AssemblyInfoInputs.cache
+C:\Git\VisualBasic\Solution VB Programs\Modules and CodeFiles\obj\Debug\netcoreapp2.1\Modules and CodeFiles.AssemblyInfo.vb
+C:\Git\VisualBasic\Solution VB Programs\Modules and CodeFiles\bin\Debug\netcoreapp2.1\Modules and CodeFiles.deps.json
+C:\Git\VisualBasic\Solution VB Programs\Modules and CodeFiles\bin\Debug\netcoreapp2.1\Modules and CodeFiles.runtimeconfig.json
+C:\Git\VisualBasic\Solution VB Programs\Modules and CodeFiles\bin\Debug\netcoreapp2.1\Modules and CodeFiles.runtimeconfig.dev.json
+C:\Git\VisualBasic\Solution VB Programs\Modules and CodeFiles\bin\Debug\netcoreapp2.1\Modules and CodeFiles.dll
+C:\Git\VisualBasic\Solution VB Programs\Modules and CodeFiles\bin\Debug\netcoreapp2.1\Modules and CodeFiles.pdb
+C:\Git\VisualBasic\Solution VB Programs\Modules and CodeFiles\obj\Debug\netcoreapp2.1\Modules and CodeFiles.dll
+C:\Git\VisualBasic\Solution VB Programs\Modules and CodeFiles\obj\Debug\netcoreapp2.1\Modules and CodeFiles.pdb

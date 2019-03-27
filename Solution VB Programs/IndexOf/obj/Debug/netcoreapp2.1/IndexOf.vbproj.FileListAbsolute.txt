@@ -1,0 +1,11 @@
+C:\Git\VisualBasic\Solution VB Programs\IndexOf\bin\Debug\netcoreapp2.1\IndexOf.deps.json
+C:\Git\VisualBasic\Solution VB Programs\IndexOf\bin\Debug\netcoreapp2.1\IndexOf.runtimeconfig.json
+C:\Git\VisualBasic\Solution VB Programs\IndexOf\bin\Debug\netcoreapp2.1\IndexOf.runtimeconfig.dev.json
+C:\Git\VisualBasic\Solution VB Programs\IndexOf\bin\Debug\netcoreapp2.1\IndexOf.dll
+C:\Git\VisualBasic\Solution VB Programs\IndexOf\bin\Debug\netcoreapp2.1\IndexOf.pdb
+C:\Git\VisualBasic\Solution VB Programs\IndexOf\obj\Debug\netcoreapp2.1\IndexOf.vbprojAssemblyReference.cache
+C:\Git\VisualBasic\Solution VB Programs\IndexOf\obj\Debug\netcoreapp2.1\IndexOf.vbproj.CoreCompileInputs.cache
+C:\Git\VisualBasic\Solution VB Programs\IndexOf\obj\Debug\netcoreapp2.1\IndexOf.AssemblyInfoInputs.cache
+C:\Git\VisualBasic\Solution VB Programs\IndexOf\obj\Debug\netcoreapp2.1\IndexOf.AssemblyInfo.vb
+C:\Git\VisualBasic\Solution VB Programs\IndexOf\obj\Debug\netcoreapp2.1\IndexOf.dll
+C:\Git\VisualBasic\Solution VB Programs\IndexOf\obj\Debug\netcoreapp2.1\IndexOf.pdb

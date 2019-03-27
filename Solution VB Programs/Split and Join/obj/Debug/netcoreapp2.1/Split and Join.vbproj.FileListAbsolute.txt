@@ -1,0 +1,11 @@
+C:\Git\VisualBasic\Solution VB Programs\Split and Join\bin\Debug\netcoreapp2.1\Split and Join.deps.json
+C:\Git\VisualBasic\Solution VB Programs\Split and Join\bin\Debug\netcoreapp2.1\Split and Join.runtimeconfig.json
+C:\Git\VisualBasic\Solution VB Programs\Split and Join\bin\Debug\netcoreapp2.1\Split and Join.runtimeconfig.dev.json
+C:\Git\VisualBasic\Solution VB Programs\Split and Join\bin\Debug\netcoreapp2.1\Split and Join.dll
+C:\Git\VisualBasic\Solution VB Programs\Split and Join\bin\Debug\netcoreapp2.1\Split and Join.pdb
+C:\Git\VisualBasic\Solution VB Programs\Split and Join\obj\Debug\netcoreapp2.1\Split and Join.vbproj.CoreCompileInputs.cache
+C:\Git\VisualBasic\Solution VB Programs\Split and Join\obj\Debug\netcoreapp2.1\Split and Join.AssemblyInfoInputs.cache
+C:\Git\VisualBasic\Solution VB Programs\Split and Join\obj\Debug\netcoreapp2.1\Split and Join.AssemblyInfo.vb
+C:\Git\VisualBasic\Solution VB Programs\Split and Join\obj\Debug\netcoreapp2.1\Split and Join.dll
+C:\Git\VisualBasic\Solution VB Programs\Split and Join\obj\Debug\netcoreapp2.1\Split and Join.pdb
+C:\Git\VisualBasic\Solution VB Programs\Split and Join\obj\Debug\netcoreapp2.1\Split and Join.vbprojAssemblyReference.cache
