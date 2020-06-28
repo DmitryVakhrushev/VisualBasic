@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "47_Coercion", "47_Coercion\47_Coercion.vbproj", "{EAB60B78-0776-4EA3-B3CB-3B9445D8A020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB60B78-0776-4EA3-B3CB-3B9445D8A020}.Debug|x86.ActiveCfg = Debug|x86
+		{EAB60B78-0776-4EA3-B3CB-3B9445D8A020}.Debug|x86.Build.0 = Debug|x86
+		{EAB60B78-0776-4EA3-B3CB-3B9445D8A020}.Release|x86.ActiveCfg = Release|x86
+		{EAB60B78-0776-4EA3-B3CB-3B9445D8A020}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
